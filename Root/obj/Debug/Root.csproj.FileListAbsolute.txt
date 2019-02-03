@@ -1,0 +1,6 @@
+D:\Visual Projects\HW\Root\bin\Debug\Root.exe.config
+D:\Visual Projects\HW\Root\bin\Debug\Root.exe
+D:\Visual Projects\HW\Root\bin\Debug\Root.pdb
+D:\Visual Projects\HW\Root\obj\Debug\Root.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\Root\obj\Debug\Root.exe
+D:\Visual Projects\HW\Root\obj\Debug\Root.pdb

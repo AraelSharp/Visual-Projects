@@ -1,0 +1,6 @@
+D:\Visual Projects\HW\Numbers\bin\Debug\Numbers.exe.config
+D:\Visual Projects\HW\Numbers\bin\Debug\Numbers.exe
+D:\Visual Projects\HW\Numbers\bin\Debug\Numbers.pdb
+D:\Visual Projects\HW\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\Numbers\obj\Debug\Numbers.exe
+D:\Visual Projects\HW\Numbers\obj\Debug\Numbers.pdb

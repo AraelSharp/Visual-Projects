@@ -1,0 +1,6 @@
+D:\Visual Projects\HW\Calculate\bin\Debug\Calculate.exe.config
+D:\Visual Projects\HW\Calculate\bin\Debug\Calculate.exe
+D:\Visual Projects\HW\Calculate\bin\Debug\Calculate.pdb
+D:\Visual Projects\HW\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\Calculate\obj\Debug\Calculate.exe
+D:\Visual Projects\HW\Calculate\obj\Debug\Calculate.pdb

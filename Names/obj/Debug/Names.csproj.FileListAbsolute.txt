@@ -1,0 +1,7 @@
+D:\Visual Projects\HW\Names\bin\Debug\Names.exe.config
+D:\Visual Projects\HW\Names\bin\Debug\Names.exe
+D:\Visual Projects\HW\Names\bin\Debug\Names.pdb
+D:\Visual Projects\HW\Names\obj\Debug\Names.csprojAssemblyReference.cache
+D:\Visual Projects\HW\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\Names\obj\Debug\Names.exe
+D:\Visual Projects\HW\Names\obj\Debug\Names.pdb
