@@ -1,0 +1,7 @@
+D:\Visual Projects\HW\OddsAndEvens\bin\Debug\OddsAndEvens.exe.config
+D:\Visual Projects\HW\OddsAndEvens\bin\Debug\OddsAndEvens.exe
+D:\Visual Projects\HW\OddsAndEvens\bin\Debug\OddsAndEvens.pdb
+D:\Visual Projects\HW\OddsAndEvens\obj\Debug\OddsAndEvens.csprojAssemblyReference.cache
+D:\Visual Projects\HW\OddsAndEvens\obj\Debug\OddsAndEvens.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\OddsAndEvens\obj\Debug\OddsAndEvens.exe
+D:\Visual Projects\HW\OddsAndEvens\obj\Debug\OddsAndEvens.pdb

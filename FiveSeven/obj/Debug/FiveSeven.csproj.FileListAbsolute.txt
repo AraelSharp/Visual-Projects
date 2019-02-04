@@ -1,0 +1,7 @@
+D:\Visual Projects\HW\FiveSeven\obj\Debug\FiveSeven.csprojAssemblyReference.cache
+D:\Visual Projects\HW\FiveSeven\obj\Debug\FiveSeven.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\FiveSeven\bin\Debug\FiveSeven.exe.config
+D:\Visual Projects\HW\FiveSeven\bin\Debug\FiveSeven.exe
+D:\Visual Projects\HW\FiveSeven\bin\Debug\FiveSeven.pdb
+D:\Visual Projects\HW\FiveSeven\obj\Debug\FiveSeven.exe
+D:\Visual Projects\HW\FiveSeven\obj\Debug\FiveSeven.pdb
