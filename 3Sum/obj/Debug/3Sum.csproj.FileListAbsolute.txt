@@ -1,0 +1,7 @@
+D:\Visual Projects\HW\3Sum\bin\Debug\3Sum.exe.config
+D:\Visual Projects\HW\3Sum\bin\Debug\3Sum.exe
+D:\Visual Projects\HW\3Sum\bin\Debug\3Sum.pdb
+D:\Visual Projects\HW\3Sum\obj\Debug\3Sum.csprojAssemblyReference.cache
+D:\Visual Projects\HW\3Sum\obj\Debug\3Sum.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\3Sum\obj\Debug\3Sum.exe
+D:\Visual Projects\HW\3Sum\obj\Debug\3Sum.pdb
