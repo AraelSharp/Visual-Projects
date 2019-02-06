@@ -1,0 +1,7 @@
+D:\Visual Projects\HW\FromOneToN\obj\Debug\FromOneToN.csprojAssemblyReference.cache
+D:\Visual Projects\HW\FromOneToN\obj\Debug\FromOneToN.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\FromOneToN\bin\Debug\FromOneToN.exe.config
+D:\Visual Projects\HW\FromOneToN\bin\Debug\FromOneToN.exe
+D:\Visual Projects\HW\FromOneToN\bin\Debug\FromOneToN.pdb
+D:\Visual Projects\HW\FromOneToN\obj\Debug\FromOneToN.exe
+D:\Visual Projects\HW\FromOneToN\obj\Debug\FromOneToN.pdb
