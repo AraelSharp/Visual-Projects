@@ -19,14 +19,13 @@ namespace FromOneToN
 
             do
             {
+                Console.WriteLine(NumberN);
                 NumberN --;
             }
             while (NumberN > 1);
 
-
             Console.WriteLine();
             Console.ReadLine();
-
         }
     }
 }
