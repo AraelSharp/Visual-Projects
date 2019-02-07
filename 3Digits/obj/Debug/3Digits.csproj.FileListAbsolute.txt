@@ -1,0 +1,2 @@
+D:\Visual Projects\HW\3Digits\obj\Debug\3Digits.csprojAssemblyReference.cache
+D:\Visual Projects\HW\3Digits\obj\Debug\3Digits.csproj.CoreCompileInputs.cache
