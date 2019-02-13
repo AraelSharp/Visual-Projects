@@ -1,0 +1,6 @@
+D:\Visual Projects\HW\Illuminati\bin\Debug\Illuminati.exe.config
+D:\Visual Projects\HW\Illuminati\bin\Debug\Illuminati.exe
+D:\Visual Projects\HW\Illuminati\bin\Debug\Illuminati.pdb
+D:\Visual Projects\HW\Illuminati\obj\Debug\Illuminati.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\Illuminati\obj\Debug\Illuminati.exe
+D:\Visual Projects\HW\Illuminati\obj\Debug\Illuminati.pdb

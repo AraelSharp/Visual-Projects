@@ -1,0 +1,7 @@
+D:\Visual Projects\HW\HexNumb\bin\Debug\HexNumb.exe.config
+D:\Visual Projects\HW\HexNumb\bin\Debug\HexNumb.exe
+D:\Visual Projects\HW\HexNumb\bin\Debug\HexNumb.pdb
+D:\Visual Projects\HW\HexNumb\obj\Debug\HexNumb.csprojAssemblyReference.cache
+D:\Visual Projects\HW\HexNumb\obj\Debug\HexNumb.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\HexNumb\obj\Debug\HexNumb.exe
+D:\Visual Projects\HW\HexNumb\obj\Debug\HexNumb.pdb

@@ -1,0 +1,6 @@
+D:\Visual Projects\HW\Quotes\obj\Debug\Quotes.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\Quotes\bin\Debug\Quotes.exe.config
+D:\Visual Projects\HW\Quotes\bin\Debug\Quotes.exe
+D:\Visual Projects\HW\Quotes\bin\Debug\Quotes.pdb
+D:\Visual Projects\HW\Quotes\obj\Debug\Quotes.exe
+D:\Visual Projects\HW\Quotes\obj\Debug\Quotes.pdb

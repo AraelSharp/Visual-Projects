@@ -1,0 +1,6 @@
+D:\Visual Projects\HW\BooleanVar\bin\Debug\BooleanVar.exe.config
+D:\Visual Projects\HW\BooleanVar\bin\Debug\BooleanVar.exe
+D:\Visual Projects\HW\BooleanVar\bin\Debug\BooleanVar.pdb
+D:\Visual Projects\HW\BooleanVar\obj\Debug\BooleanVar.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\BooleanVar\obj\Debug\BooleanVar.exe
+D:\Visual Projects\HW\BooleanVar\obj\Debug\BooleanVar.pdb
