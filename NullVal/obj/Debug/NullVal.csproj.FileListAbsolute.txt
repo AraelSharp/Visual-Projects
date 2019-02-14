@@ -1,0 +1,7 @@
+D:\Visual Projects\HW\NullVal\obj\Debug\NullVal.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\NullVal\obj\Debug\NullVal.csprojAssemblyReference.cache
+D:\Visual Projects\HW\NullVal\bin\Debug\NullVal.exe.config
+D:\Visual Projects\HW\NullVal\bin\Debug\NullVal.exe
+D:\Visual Projects\HW\NullVal\bin\Debug\NullVal.pdb
+D:\Visual Projects\HW\NullVal\obj\Debug\NullVal.exe
+D:\Visual Projects\HW\NullVal\obj\Debug\NullVal.pdb

@@ -1,0 +1,7 @@
+D:\Visual Projects\HW\BankAcc\bin\Debug\BankAcc.exe.config
+D:\Visual Projects\HW\BankAcc\bin\Debug\BankAcc.exe
+D:\Visual Projects\HW\BankAcc\bin\Debug\BankAcc.pdb
+D:\Visual Projects\HW\BankAcc\obj\Debug\BankAcc.csprojAssemblyReference.cache
+D:\Visual Projects\HW\BankAcc\obj\Debug\BankAcc.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\BankAcc\obj\Debug\BankAcc.exe
+D:\Visual Projects\HW\BankAcc\obj\Debug\BankAcc.pdb

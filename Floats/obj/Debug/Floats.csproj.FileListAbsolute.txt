@@ -1,0 +1,7 @@
+D:\Visual Projects\HW\Floats\bin\Debug\Floats.exe.config
+D:\Visual Projects\HW\Floats\bin\Debug\Floats.exe
+D:\Visual Projects\HW\Floats\bin\Debug\Floats.pdb
+D:\Visual Projects\HW\Floats\obj\Debug\Floats.csprojAssemblyReference.cache
+D:\Visual Projects\HW\Floats\obj\Debug\Floats.csproj.CoreCompileInputs.cache
+D:\Visual Projects\HW\Floats\obj\Debug\Floats.exe
+D:\Visual Projects\HW\Floats\obj\Debug\Floats.pdb
